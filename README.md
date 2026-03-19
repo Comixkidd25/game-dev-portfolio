@@ -81,5 +81,5 @@ Veilfall is a stylized action experience focused on abilities, power progression
 ---
 
 # 📬 Contact
-- LinkedIn: [Add Link]
-- Email: [Add Email]
+- LinkedIn: https://www.linkedin.com/in/demetrius-nance-aa4512199/
+- Email: demetriusnance1@gmail.com
