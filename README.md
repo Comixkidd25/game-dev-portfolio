@@ -18,7 +18,7 @@ I specialize in designing systems that feel impactful, scalable, and fun to play
 Swipefall is a fast-paced reflex game where players must react quickly using swipe-based inputs to survive incoming threats. The game focuses on precision, timing, and escalating difficulty.
 
 ### 🎮 Core Features
-- Swipe-based input system (up, down, left, right)
+- Swipe-based input system ( left, right)
 - Increasing difficulty over time
 - Reaction-speed gameplay loop
 - Score tracking system
